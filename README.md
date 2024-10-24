@@ -92,4 +92,4 @@ Modelin performansına dayalı olarak, farklı balık türlerinin başarılı bi
 
 
 
-Kaggle linki=
+Kaggle linki= https://www.kaggle.com/code/bilgeesinakbaba/fishclassification
