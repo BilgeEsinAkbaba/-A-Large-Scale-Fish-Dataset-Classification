@@ -90,6 +90,3 @@ Eğitim Sonuçları:
 
 Modelin performansına dayalı olarak, farklı balık türlerinin başarılı bir şekilde sınıflandırıldığı ve modelin overfitting yapmadığı gözlemlenmiştir.
 
-
-
-Kaggle linki= https://www.kaggle.com/code/bilgeesinakbaba/fishclassification
